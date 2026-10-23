@@ -47,5 +47,5 @@ This project is licensed under the **GNU Affero General Public License v3 (AGPL-
 * Stripping legal notice headers from individual source files or attempting to privatize forks is strictly prohibited.
 
 ---
-*Maintained by Patchwork Wabbit.*
+*Maintained by Patchwork Wabbit.*. 
 
