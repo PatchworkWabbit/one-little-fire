@@ -1,3 +1,8 @@
+Copyright (C) 2026 Patchwork Wabbit
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as
+published by the Free Software Foundation, version 3.
+
 # V4.10.6 connected repairs; continues the existing v497 slot memory filename.
 # Stops new legacy preset expansion, preserves archived jobs and constructions,
 # saves command/exit receipts, and versions physical definedness assessments.
